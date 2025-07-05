@@ -15,27 +15,25 @@ I'm a PhD student in **Computer Science** at the University of Central Florida, 
 - **Human-AI Interaction** – Exploring how AI can naturally interact within physical and virtual spaces
 
 ---
+### 🧑‍🏫 **Graduate Research Assistant** – UCF Virtual & Augmented Reality Lab  
+  - Researching XR, digital twins, ML, and system simulation  
 
-### 🛠 Technical Experience:
-- 🧑‍🏫 **Graduate Research Assistant** – UCF Virtual & Augmented Reality Lab  
-  Researching XR, digital twins, ML, and system simulation  
+### 🧑‍💻 **Software Engineering Intern** – Qualtrics  
+  - Developed enterprise-grade solutions for User and Access Management, allowing platform management of internal permission resources at scale
+  - Collaborated in a team employing scrum framework for sprint-based continuous improvement
+  - Wrote high-quality, modular, extensible code in an agile environment using modern Java, TypeScript, and React
+  - Deployed rapidly with unit, integration, and snapshot testing, GitLab, Jenkins CI/CD, and Docker
 
-- 🧑‍💻 **Software Engineering Intern** – Qualtrics  
-  Developed enterprise-grade solutions for User and Access Management, allowing platform management of internal permission resources at scale
-  Collaborated in a team employing scrum framework for sprint-based continuous improvement
-  Wrote high-quality, modular, extensible code in an agile environment using modern Java, TypeScript, and React
-  Deployed rapidly with unit, integration, and snapshot testing, GitLab, Jenkins CI/CD, and Docker
-
-- 🎓 **Computer Science Teaching Assistant** – UCF  
-  Tutor various computer science topics: Object Oriented Programming and Algorithms for Machine
+### 🎓 **Computer Science Teaching Assistant** – UCF  
+  - Tutor various computer science topics: Object Oriented Programming and Algorithms for Machine
 Learning
-  Hold office hours to aid students academically, and grade computer science assignments
-  Work directly under a Raytheon PhD Principle Systems Engineer and UCF professor to foster a positive learning environment for students
+  - Hold office hours to aid students academically, and grade computer science assignments
+  - Work directly under a Raytheon PhD Principle Systems Engineer and UCF professor to foster a positive learning environment for students
 
-- 🚀 **Project Lead** – NASA, Florida Space Institute, UCF
-  During an ongoing eight month contract through UCF’s Senior Design program, our team set up the server infrastructure for Sim-Smackdown 2022.
-  Our team set up an openVPN server and multiple AWS servers.
-  The team working to grow the UCF Lunar Base through in-house HLA federate research and development using the NASA Artemis Architecture in collaboration with the RASSOR and DON 4.0 teams in the Pitch RTI and DON software.
+### 🚀 **Project Lead** – NASA, Florida Space Institute, UCF
+  - During an ongoing eight month contract through UCF’s Senior Design program, our team set up the server infrastructure for Sim-Smackdown 2022.
+  - Our team set up an openVPN server and multiple AWS servers.
+  - The team working to grow the UCF Lunar Base through in-house HLA federate research and development using the NASA Artemis Architecture in collaboration with the RASSOR and DON 4.0 teams in the Pitch RTI and DON software.
 
 ---
 
