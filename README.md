@@ -4,7 +4,7 @@ I'm a PhD student in **Computer Science** at the University of Central Florida, 
 
 🚀 **Redirected Locomotion** 
 🤖 **Embodied AI**
-🌐 Digital twins, machine learning, and simulation-driven systems  
+🌐 **Digital twins**
 
 ---
 
