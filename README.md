@@ -46,7 +46,7 @@ Learning
 ---
 
 ### 🎓 Education:
-- **PhD (In Progress)** – Computer Science, UCF  
+- **PhD (In Progress) Computer Science** – UCF  
 - **M.S. Computer Science** – UCF 
 - **B.S. Computer Science** – UCF
 - **A.A. Articulated Computer Science** – Valencia College
